@@ -13,7 +13,7 @@ import java.util.ArrayList;
  */
 public class BabyProducts 
 {
-	int shop_ID;
+	int shop_ID;  // Shop ID is integer 
 	Float price;
 	List<String> product_label = new ArrayList<String>();
 	
